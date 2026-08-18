@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on: Java, DSA, and backend development projects<br>🤝 I'm looking to collaborate on: beginner-friendly dev & open-source projects<br>🌱 I'm currently learning: Linux, Git/GitHub, and backend fundamentals<br>💬 Ask me about: Java, C/C++, DSA, or web basics (HTML/CSS/Tailwind)<br>⚡ Fun fact: I can do 100 push-ups, 100 sit-ups, and 100 squats — no superpowers required. 💪😤
+🔭 I'm currently working on: Java, DSA, and backend development projects<br>🤝 I'm looking to collaborate on: beginner-friendly dev & open-source projects<br>🌱 I'm currently learning: Git/GitHub and backend fundamentals<br>💬 Ask me about: Java, C/C++, DSA, or web basics <br>⚡ Fun fact: I can do 100 push-ups, 100 sit-ups, and 100 squats — no superpowers required. 💪😤
 
 
 ## 🌐 Socials:
